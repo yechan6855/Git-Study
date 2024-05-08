@@ -1,0 +1,13 @@
+2024년 아침밥으로 김치찜을 먹었다.
+Version : 1 version 입니다.
+
+#include <bits/stdc++.h>
+#define int long long
+using namespace std;
+
+int32_t main()
+{
+	int t;
+	cin>>t;
+	while(t--){
+	
